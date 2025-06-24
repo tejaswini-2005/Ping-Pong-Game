@@ -11,10 +11,7 @@ Gameplay
 
 Controls
 
-Player     Key Up         Key Down   
-
- 1       ⬆️ Arrow Up    ⬇️ Arrow Down 
- 2         W               S          
-
+Player 1    ⬆️ Arrow Up         ⬇️ Arrow Down  
+Player 2     W                    S
 
  Press ESC to quit the game at any time.
